@@ -1,0 +1,14 @@
+enter ur number the result is 22
+of 2785 - 22 ::== 2763 the sum of digits 
+of 22 - 4 ::== 18
+of assumption 4 - 4 ::== 9
+with assumption of addition 2763 + 18 + 9 ::== 2790
+of assumption 9 - 4 ::== 5
+and final of 2790 - 5 ::== 2785
+
+And of number 2763
+
+internal result 18
+with ts_loop of 9
+18 - 9 ::== 9
+continue with 9
