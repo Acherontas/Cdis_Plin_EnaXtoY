@@ -1,0 +1,27 @@
+enter ur number the result is 22
+
+of 2785 - 22 ::== 2763 the sum of digits 
+
+----------WITH ALL IN LOOP -----------------------------------
+22 -  18 ::== 4
+of last 
+4 - 9 ::== 9
+and 9 - 4 ::== 5
+sumof_them  + arint @i pos 2763 + 2763
+sumof_them  + arint @i pos 2781 + 18
+sumof_them  + arint @i pos 2790 + 9
+exiting with sum of 2790  - 5 ::== 2785
+----------END OF LOOP -----------------------------------
+
+of 4 - 4 ::== 0
+of assumption 4 - 4 ::== 9
+with assumption of addition 2763 + 0 + 9 ::== 2772
+of assumption 9 - 4 ::== 5
+and final of 2772 - 5 ::== 2767
+
+And of number 2763
+
+internal result 18
+with ts_loop of 9
+18 - 9 ::== 9
+continue with 9

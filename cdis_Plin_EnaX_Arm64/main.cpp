@@ -42,8 +42,9 @@ int main(int argc,char** argv)
                         afair=stbl-result;
                         cout<<"and " << stbl << " - " << result << " ::== " << afair <<"\n";
                         for(int i=0;i<=intar-1;i++){
+                                cout<<"sumof_them  + arint @i pos " << sumof_them << " + ";
                                 sumof_them=sumof_them+arint[i];
-                                cout<<"sumof_them  + arint @i pos " << sumof_them << " + " << arint[i] <<"\n";
+                                cout<< arint[i] <<" ::== " << sumof_them <<"\n";
                         }
                         cout<<"exiting with sum of " << sumof_them <<" ";
                         sumof_them=sumof_them-afair;
