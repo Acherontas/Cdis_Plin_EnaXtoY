@@ -1,0 +1,27 @@
+enter ur number the result is 20
+
+of 57323 - 20 ::== 57303 the sum of digits 
+
+----------WITH ALL IN LOOP -----------------------------------
+20 -  18 ::== 2
+of last 
+2 - 9 ::== 9
+and 9 - 2 ::== 7
+sumof_them  + arint @i pos 57303 + 57303
+sumof_them  + arint @i pos 57321 + 18
+sumof_them  + arint @i pos 57330 + 9
+exiting with sum of 57330  - 7 ::== 57323
+----------END OF LOOP -----------------------------------
+
+of 2 - 2 ::== 0
+of assumption 2 - 2 ::== 9
+with assumption of addition 57303 + 0 + 9 ::== 57312
+of assumption 9 - 2 ::== 7
+and final of 57312 - 7 ::== 57305
+
+And of number 57303
+
+internal result 18
+with ts_loop of 9
+18 - 9 ::== 9
+continue with 9

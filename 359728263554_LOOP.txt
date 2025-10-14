@@ -1,0 +1,31 @@
+enter ur number the result is 59
+
+of 359728263554 - 59 ::== 359728263495 the sum of digits 
+
+----------WITH ALL IN LOOP -----------------------------------
+59 -  45 ::== 14
+14 -  9 ::== 5
+of last 
+5 - 9 ::== 9
+and 9 - 5 ::== 4
+sumof_them  + arint @i pos 359728263495 + 359728263495
+sumof_them  + arint @i pos 359728263540 + 45
+sumof_them  + arint @i pos 359728263549 + 9
+sumof_them  + arint @i pos 359728263558 + 9
+exiting with sum of 359728263558  - 4 ::== 359728263554
+----------END OF LOOP -----------------------------------
+
+of 5 - 5 ::== 0
+of assumption 5 - 5 ::== 9
+with assumption of addition 359728263495 + 0 + 9 ::== 359728263504
+of assumption 9 - 5 ::== 4
+and final of 359728263504 - 4 ::== 359728263500
+
+And of number 359728263495
+
+internal result 63
+with ts_loop of 9
+63 - 9 ::== 54
+continue with 54
+internal result 9
+9 - 9 ::== 0

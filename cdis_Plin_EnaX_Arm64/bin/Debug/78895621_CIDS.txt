@@ -1,0 +1,16 @@
+enter ur number the result is 46
+of 78895621 - 46 ::== 78895575 the sum of digits 
+of 46 - 10 ::== 36
+of assumption 10 - 10 ::== 9
+with assumption of addition 78895575 + 36 + 9 ::== 78895620
+of assumption 9 - 10 ::== -1
+and final of 78895620 - -1 ::== 78895621
+
+And of number 78895575
+
+internal result 54
+with ts_loop of 9
+54 - 9 ::== 45
+continue with 45
+internal result 9
+9 - 9 ::== 0
