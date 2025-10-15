@@ -1,0 +1,31 @@
+enter ur number the result is 46
+
+of 78895621 - 46 ::== 78895575 the sum of digits 
+
+----------WITH ALL IN LOOP -----------------------------------
+46 -  36 ::== 10
+10 -  9 ::== 1
+of last 
+1 - 9 ::== 9
+and 9 - 1 ::== 8
+sumof_them  + arint @i pos 78895575 + 78895575
+sumof_them  + arint @i pos 78895611 + 36
+sumof_them  + arint @i pos 78895620 + 9
+sumof_them  + arint @i pos 78895629 + 9
+exiting with sum of 78895629  - 8 ::== 78895621
+----------END OF LOOP -----------------------------------
+
+of 1 - 1 ::== 0
+of assumption 1 - 1 ::== 9
+with assumption of addition 78895575 + 0 + 9 ::== 78895584
+of assumption 9 - 1 ::== 8
+and final of 78895584 - 8 ::== 78895576
+
+And of number 78895575
+
+internal result 54
+with ts_loop of 9
+54 - 9 ::== 45
+continue with 45
+internal result 9
+9 - 9 ::== 0

@@ -1,0 +1,16 @@
+enter ur number the result is 59
+of 359728263554 - 59 ::== 359728263495 the sum of digits 
+of 59 - 14 ::== 45
+of assumption 14 - 14 ::== 9
+with assumption of addition 359728263495 + 45 + 9 ::== 359728263549
+of assumption 9 - 14 ::== -5
+and final of 359728263549 - -5 ::== 359728263554
+
+And of number 359728263495
+
+internal result 63
+with ts_loop of 9
+63 - 9 ::== 54
+continue with 54
+internal result 9
+9 - 9 ::== 0

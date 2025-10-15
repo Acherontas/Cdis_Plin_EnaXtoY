@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1760455965 source:/home/acherontas/codeblocks/cdis_Plin_EnaX_Arm64/sum_cdi.cpp
+	"sum_cdi.h"
+
+1758893193 /home/acherontas/codeblocks/cdis_Plin_EnaX_Arm64/sum_cdi.h
+	<iostream>
+	<string>
+	<math.h>
+	<iomanip>
+
+1760459325 source:/home/acherontas/codeblocks/cdis_Plin_EnaX_Arm64/main.cpp
+	<iostream>
+	<iomanip>
+	<math.h>
+	"sum_cdi.h"
+

@@ -1,0 +1,20 @@
+#ifndef SUM_CDI_H
+#define SUM_CDI_H
+
+
+class sum_cdi
+{
+    public:
+        sum_cdi();
+        virtual ~sum_cdi();
+        sum_cdi(const sum_cdi& other);
+        sum_cdi& operator=(const sum_cdi& other);
+        long long int cd(long long int n);
+        int cdis(long long int nn,int dkp);
+
+    protected:
+
+    private:
+};
+
+#endif // SUM_CDI_H

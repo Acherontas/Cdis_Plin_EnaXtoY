@@ -1,0 +1,14 @@
+enter ur number the result is 20
+of 57323 - 20 ::== 57303 the sum of digits 
+of 20 - 2 ::== 18
+of assumption 2 - 2 ::== 9
+with assumption of addition 57303 + 18 + 9 ::== 57330
+of assumption 9 - 2 ::== 7
+and final of 57330 - 7 ::== 57323
+
+And of number 57303
+
+internal result 18
+with ts_loop of 9
+18 - 9 ::== 9
+continue with 9
